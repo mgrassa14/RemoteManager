@@ -1,4 +1,4 @@
 def display_recipe():
-    print("Chocolate Chip Cookies")
+    print("Chocolate Ice Cream")
 
 display_recipe()
